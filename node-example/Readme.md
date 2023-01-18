@@ -1,10 +1,10 @@
 # Run a BigbChain Validator
 ## Setting up a node
-1. Git clone https://github.com/cloudtxchain/CloudTxNetwork.git
+1. Git clone https://github.com/bighbull3333/BigBNetwork.git
 
 2. Copy source form node-example to root folder
 ```
-cp -r CloudTxNetwork/node-example/BigbChain  /root/
+cp -r BigBNetwork/node-example/BigbChain  /root/
 ```
 3. Create an Account
 note: Please change validator password in node.pwd before do this step
