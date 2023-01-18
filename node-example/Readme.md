@@ -1,6 +1,6 @@
 # Run a BigbChain Validator
 ## Setting up a node
-1. Git clone https://github.com/bighbull3333/BigBNetwork.git
+1. git clone https://github.com/bighbull3333/BigBNetwork.git
 
 2. Copy source form node-example to root folder
 ```
